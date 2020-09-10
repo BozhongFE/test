@@ -1,6 +1,6 @@
 {
-  "name": "test",
-  "version": "1.0.10",
+  "name": "@bz/test",
+  "version": "1.1.0",
   "description": "test update\r test push\r test qq\r test 123\r test 11",
   "main": "index.js",
   "scripts": {
